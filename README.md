@@ -1,6 +1,5 @@
-# README
+# A Simple FAT32 Interpreting Shell Tool
 
-A Simple FAT32 Interpreting Shell Tool
 
 Author:
 -------
@@ -15,7 +14,7 @@ Stephen Hightower, Sarah Jiwani
 Description:
 ------------
 This is an implementation of a simple shell-like utility that is capable of interpreting a FAT32 file system image, written in C. 
-The executable takes the image file path name (provided is file "fat32.img") as an argument and reads and writes to it according to different commands. 
+The executable takes the image file path name (provided is file "fat32.7z" which compresses "fat32.img") as an argument and reads and writes to it according to different commands. 
 The list of commands the program recognizes (and short descriptions of what each command does) are as followed:
 
 exit - Closes the program and frees up any allocated resources.
