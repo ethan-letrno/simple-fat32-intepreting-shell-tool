@@ -1,5 +1,4 @@
-// Project 3
-// COP4610 Operating Systems
+
 // Ethan Letourneau, Stephen Hightower, Sarah Jiwani
 
 #include <stdint.h>
